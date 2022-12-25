@@ -1,15 +1,17 @@
 # Merry Christmas 
 
-
-
-预览:
+安装:
 
 ``` 
 
-python3 index.py 
+python3 src/index.py 
 
 or 
 
-python3 index2.py
+python3 src/index2.py
 
 ```
+
+### 预览：
+
+
